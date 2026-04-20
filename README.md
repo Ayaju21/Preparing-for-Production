@@ -1,22 +1,30 @@
-🚀 Study Night - Flashcard Tool
-Study Night is a front-end web application designed to help users study using flashcards. This project focuses on ensuring product quality through rigorous testing, performance optimization, and workflow automation.
+# Study Night - Flashcard Tool
 
-🛠️ Key Features
-Unit Testing: Logic verification using Mocha.
+Study Night is a front-end web application designed to help users study effectively using flashcards. This project focuses on software quality assurance, testing, and performance optimization.
 
-E2E Testing: Form and navigation validation using Cypress.
+## 📝 Project Overview
+In this project, I took a prebuilt application and applied professional development workflows to ensure product quality and efficiency. The work included:
+* Configuring project dependencies and environment.
+* Implementing automated testing suites.
+* Optimizing the application for production.
+* Automating repetitive development tasks.
 
-Build Automation: Streamlined tasks using Gulp.
+## 🛠️ Skills & Tools Applied
 
-Optimization: Assets minification and image compression via Parcel.
+### 1. Automated Testing
+* **Unit Testing:** Used **Mocha** and **Chai** to verify core logic functionality.
+* **End-to-End (E2E) Testing:** Used **Cypress** to validate user navigation and form behavior.
 
-Dependency Management: Handled through npm.
+### 2. Performance Optimization
+* **Minification:** Reduced the size of HTML, CSS, and JavaScript files.
+* **Image Compression:** Optimized visual assets to improve load times.
+* **Parcel:** Utilized Parcel for efficient bundling and optimization.
 
-💻 Tech Stack
-Frontend: HTML, CSS, JavaScript
+### 3. Workflow Automation
+* **Gulp:** Configured Gulp tasks to automate the testing and build processes, making the development cycle faster and less prone to manual errors.
 
-Testing: Mocha, Chai, Cypress
+## 🚀 How to Run the Project
 
-Build Tools: Gulp, Parcel
-
-Environment: Node.js / npm
+1. **Install Dependencies:**
+   ```bash
+   npm install
